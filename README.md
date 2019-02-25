@@ -1,3 +1,3 @@
-"# nodejs" 
-This is nodejs example for learn,thanks to nodejs.org
-copyright@www.codersay.net
+This is python spider
+just get all resource from lnmpchina.com
+
