@@ -1,3 +1,4 @@
-"# nodejs" 
-This is nodejs example for learn,thanks to nodejs.org
-copyright@lnmpchina.com
+本用例为公司项目所使用的案例的部分截取，实际功能比这块代码复杂
+公开仅用于学习，禁止用于商业用途，后果自负
+
+spier haodf
